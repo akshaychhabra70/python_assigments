@@ -1,0 +1,78 @@
+Solution 1 :-
+
+* - Expression(Multiplication)
+'hello' - Value(String)
+-87.8 - Value(Float)
+- - Expression(Subtraction)
+/ - Expression(Division)
++ - Expression (Addition)
+6 - Value (Integer)
+
+
+Solution 2 :-
+
+string - it is type of data. We can also say it is sequence  of characters.
+variable - it is used to store some value.
+Ex:- x="akshay"  ---> here x is a variable and "akshay" is a string
+
+
+Solution 3 :-
+
+3 type of data type are:-
+1. Text type - str
+2. Numeric type - int,float
+3. Boolean type - bool
+
+
+Solution 4 :-
+
+
+Expressions are made up of mathematical operations. They do some sort of calculation.
+
+
+Solution 5 :-
+
+Statement is a type of command like print statement and assignment statement.
+expression is some sort of mathematical operation.
+Ex.
+spam=10
+b=spam*10
+Here spam*10 is expression where as assigning its value to variable b is statement(b=spam*10).
+
+
+Solution 6 :-
+
+code:
+bacon = 22
+bacon + 1
+Variable bacon will still contain value 22 after running this code.
+
+
+Solution 7 :-
+
+value of following terms would be :
+'spam'+'spamspam' = 'spamspamspam'
+'spam'*3 = 'spamspamspam'
+
+
+Solution 8 :-
+
+Egg is valid variable name and 100 is not because variable name always starts with letter(A-Z,a-z) or underscore.
+
+
+Solution 9 :-
+
+To get integer version of value - int(value)
+To get floating point version of value - float(value)
+To get string version of value - str(value)
+
+
+Solution 10 :-
+
+'I have eaten'+ 99 + 'burritos'
+This expression is causing an error because we can't do concatination of string with integer.
+To solve the problem we have a string method called format
+'I have eaten {} burritos'.format(99)
+
+
+
